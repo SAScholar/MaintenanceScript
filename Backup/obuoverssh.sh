@@ -5,7 +5,7 @@
 
 echo "Server?"
 read server
-echo "User (need doas)?"
+echo "Username (doas required)?"
 read user
 echo "Starting backup, maybe you will be required enter your passwd later."
 
